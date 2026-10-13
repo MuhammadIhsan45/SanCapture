@@ -1,0 +1,6 @@
+PyQt6>=6.6.0
+pywin32>=306; sys_platform == 'win32'
+Pillow>=10.0.0
+pyinstaller>=6.0.0
+pynput>=1.7.6; sys_platform == 'darwin'
+dmgbuild>=1.6.0; sys_platform == 'darwin'
